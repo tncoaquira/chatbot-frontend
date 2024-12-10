@@ -23,7 +23,7 @@ const nextConfig = {
 
     return config
   },
-  output: 'standalone',
+/*   output: 'standalone', */
   eslint: {
     dirs: ['common', 'context', 'modules', 'pages', 'themes', 'stories'],
   },
